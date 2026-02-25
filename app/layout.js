@@ -19,7 +19,6 @@ export default function RootLayout({ children }) {
         </main>
         <footer className="bg-secondary py-6 mt-12">
           <div className="container mx-auto px-4 text-center text-gray-400">
-            <p>Movie Database | Built with Next.js & OMDB API</p>
           </div>
         </footer>
       </body>
